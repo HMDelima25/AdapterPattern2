@@ -19,6 +19,12 @@ Adapter Objects:
 
 LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the PowerOutlet interface, translating plugIn() to charge().
 
+
 RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
+
+
+# UML Class Diagram
+<img width="892" height="585" alt="image" src="https://github.com/user-attachments/assets/b67be412-3500-48f9-b4c7-84efb4482765" />
+
